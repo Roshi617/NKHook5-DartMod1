@@ -21,10 +21,10 @@
 				"CutOffDistance": 161
 			},
 			
-            "DisabledTasks" : [ 1, 2 ],
+            //"DisabledTasks" : [ 1, 2 ],
 			
-			"TasksToProcessOnCollision" : [ 0 ],
-			"TasksToProcessOnTerminate" : [ 1, 2 ],
+			"TasksToProcessOnCollision" : [ 0, 1, 2 ],
+			//"TasksToProcessOnTerminate" : [ 1, 2 ],
             
 			"Tasks" :
 			[
