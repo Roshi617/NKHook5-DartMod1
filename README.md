@@ -1,6 +1,6 @@
-A Bloons TD5 mod made using NKHook5 that currently doesn't work (at least it's not working on my end).
+Simple Bloons TD 5 made using NKHook5.
 
-Its intention is to double the dart monkey tower's damage, including every upgrade. However, it seems I am missing something.
+Its intention is to double the dart monkey tower's damage, including every upgrade.
 
 
 NKHook5 GitHub: https://github.com/NKHook/NKHook5
