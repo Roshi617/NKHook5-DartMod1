@@ -25,7 +25,17 @@
 			"Tasks" :
 			[
                 { "Type": "Damage", "DamageType": "Plasma", "Amount": 2 },
-                { "Type": "Damage", "DamageType": "Juggernaut", "Amount": 8 }
+                { "Type": "Damage", "DamageType": "Juggernaut", "Amount": 8 },
+				
+				{
+					"Type": "StatusEffect",
+					"Status": "MultiLayerDamage"
+				},
+				{
+					"Type": "Effect",
+					"SpriteFile": "null.json",
+					"AppliedToTower": true
+				}
 			]
 		}
 	]

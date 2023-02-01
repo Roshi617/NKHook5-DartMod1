@@ -34,6 +34,17 @@
 					"Amount": 2
 				},
                 
+				{
+					"Type": "StatusEffect",
+					"Status": "MultiLayerDamage"
+				},
+				
+				{
+					"Type": "Effect",
+					"SpriteFile": "null.json",
+					"AppliedToTower": true
+				},
+				
                 {
 					"Type": "AreaOfEffect",
 					"Range": 36,
