@@ -8,4 +8,5 @@
     "name": "Test1Roshi",
     "version": "1.0.0",
     "website": "https://nkhook.github.io/"
+    "load_order": "BASE"
 }
